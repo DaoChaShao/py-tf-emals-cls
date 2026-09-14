@@ -5,6 +5,9 @@
 
 ### Features
 
+- **data:** add email test case for spam filtering system ([e595269](https://github.com/DaoChaShao/py-tf-emals-cls/commit/e59526925c756e774ae5b71febd2d06bf236e5e0))
+- **data:** add spam email dataset files ([5ecd942](https://github.com/DaoChaShao/py-tf-emals-cls/commit/5ecd942c0179e9d1861190f5dcfb1871b158d72f))
+- **data:** add comprehensive text processing dictionaries and data modules ([2c21f4a](https://github.com/DaoChaShao/py-tf-emals-cls/commit/2c21f4a76469b8e23048f630328849c7d3f4ade5))
 - **data:** add comprehensive stop words dictionary for text processing ([d5a7871](https://github.com/DaoChaShao/py-tf-emals-cls/commit/d5a7871bb6bf13f5454a9ab59598db687dd6e2e3))
 - **project:** add text processing and machine learning dependencies ([c514a34](https://github.com/DaoChaShao/py-tf-emals-cls/commit/c514a3438a06179d249a11aa759ac52cafe45cc1))
 - **data:** add Chinese words dictionary for thulac processing ([f99bddb](https://github.com/DaoChaShao/py-tf-emals-cls/commit/f99bddbbc275571727e58171570d2924a1ff632f))
@@ -31,6 +34,7 @@
 
 ### Docs
 
+- **data:** add email dataset files for internship and job postings ([7a25a79](https://github.com/DaoChaShao/py-tf-emals-cls/commit/7a25a7958e3092df38de827a66d239d0cd970bc6))
 - **readme:** add Chinese language README documentation ([f5fc996](https://github.com/DaoChaShao/py-tf-emals-cls/commit/f5fc996e2901b442a7c22db9eff4783ce6809d2c))
 - **readme:** add comprehensive README with privacy notice and setup instructions ([243120b](https://github.com/DaoChaShao/py-tf-emals-cls/commit/243120bd14b911786b78447ca70aa112f930cdf1))
 

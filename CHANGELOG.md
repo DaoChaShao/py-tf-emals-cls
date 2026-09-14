@@ -5,6 +5,19 @@
 
 ### Features
 
+- generate a words data ([0bc56d8](https://github.com/DaoChaShao/py-tf-emals-cls/commit/0bc56d8796543bcced599c8a5fb604f886669b7f))
+- generate a model file ([3bffd8b](https://github.com/DaoChaShao/py-tf-emals-cls/commit/3bffd8b5810764568e465a1322d859db45e7fbe0))
+- update uv.lock file ([7fcd0d5](https://github.com/DaoChaShao/py-tf-emals-cls/commit/7fcd0d50c87cdcba2af2552c75f11406e778483c))
+- **deps:** add tensorflow dependency ([d75703b](https://github.com/DaoChaShao/py-tf-emals-cls/commit/d75703bbaa881fa27f344328a2b64e9117d830a6))
+- **email:** add binary classification inference system for email filtering ([fff6d25](https://github.com/DaoChaShao/py-tf-emals-cls/commit/fff6d2575caaa76421276b8670ac586217aecda9))
+- **email:** add binary classification inference system for email spam detection ([a4f439a](https://github.com/DaoChaShao/py-tf-emals-cls/commit/a4f439a656b238d54b89af5396b9eb92704dfd56))
+- **email:** add binary classification model for spam detection with inference ([3f7986f](https://github.com/DaoChaShao/py-tf-emals-cls/commit/3f7986f6b31ec197b3e400671a9f72060e8120f7))
+- **email:** add binary classification network training script ([85babd7](https://github.com/DaoChaShao/py-tf-emals-cls/commit/85babd7ff06402bd25b996439135f2b0cb488d07))
+- **email:** add email classification RNN network implementation ([672dd1b](https://github.com/DaoChaShao/py-tf-emals-cls/commit/672dd1b041e64612413d91470df609a5745fd4e6))
+- **data:** add binary classification content equalization processing module ([0c65057](https://github.com/DaoChaShao/py-tf-emals-cls/commit/0c650572e5e553b635926df8aa19793b7d919710))
+- **data:** add data processing pipeline for binary classification content encoding ([4ff6524](https://github.com/DaoChaShao/py-tf-emals-cls/commit/4ff65240dffe5ae816eb79c1d1993a54441195d7))
+- **data:** add binary classification data processing and label encoding module ([e491bd1](https://github.com/DaoChaShao/py-tf-emals-cls/commit/e491bd16b492f3f88af0d105d0332244d9664b5b))
+- **data:** add email dataset and text processing resources ([ecc36ea](https://github.com/DaoChaShao/py-tf-emals-cls/commit/ecc36eab8d1ebe77c06d6891cdce2b124a08caf3))
 - **data:** add email test case for spam filtering system ([e595269](https://github.com/DaoChaShao/py-tf-emals-cls/commit/e59526925c756e774ae5b71febd2d06bf236e5e0))
 - **data:** add spam email dataset files ([5ecd942](https://github.com/DaoChaShao/py-tf-emals-cls/commit/5ecd942c0179e9d1861190f5dcfb1871b158d72f))
 - **data:** add comprehensive text processing dictionaries and data modules ([2c21f4a](https://github.com/DaoChaShao/py-tf-emals-cls/commit/2c21f4a76469b8e23048f630328849c7d3f4ade5))
